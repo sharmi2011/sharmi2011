@@ -2,6 +2,7 @@
 
 🎓 B.Tech Information Technology Graduate (2025)  
 💻 Aspiring Software Developer  
+🌐 Portfolio 🔗 https://sharmila-portfolio-20.netlify.app/
 
 ---
 
@@ -30,12 +31,6 @@ Web application to detect inconsistencies in resumes
 Python-based model to analyze and predict earthquake patterns  
 
 ---
-
-## 📈 GitHub Stats
-
-![Sharmila's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharmi2011&show_icons=true)
-
- ---
 
 ## 📫 Contact
 - GitHub: https://github.com/sharmi2011  
