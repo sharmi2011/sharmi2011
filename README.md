@@ -1,21 +1,18 @@
 # Hi, I'm Sharmila 👋
 
 🎓 B.Tech Information Technology Graduate (2025)  
-💻 Aspiring Software Developer  
-🌐 Portfolio 🔗 https://sharmila-portfolio-20.netlify.app/
+💻 Aspiring Data Analyst 
+🌐 Portfolio 
 
 ---
 
 ## 🔧 Skills
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java)
-![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/SQL-lightgrey?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github)
+Aspiring Data Analyst focused on:
+- SQL for data querying
+- Excel for data cleaning & dashboards
+- Power BI for visualization
+- Python (Pandas) for data analysis
 
 ---
 
