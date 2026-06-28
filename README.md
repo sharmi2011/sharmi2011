@@ -10,8 +10,11 @@ IT graduate (2025) focused on turning raw data into actionable insights using SQ
 Data Analysis
 
 SQL (Joins, CTEs, Window Functions)
+
 Excel (Pivot Tables, Dashboards, Cleaning)
+
 Power BI (Reports, DAX basics)
+
 Python (Pandas, NumPy, Data Cleaning, Visualization)
 ---
 
