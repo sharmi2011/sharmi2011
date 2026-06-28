@@ -1,19 +1,18 @@
 # Hi, I'm Sharmila 👋
+DATA ANALYST | SQL • Excel • Power BI • Python
+ 
+📊 About Me
 
-🎓 B.Tech Information Technology Graduate (2025)  
-💻 Aspiring Data Analyst 
-🌐 Portfolio 
+IT graduate (2025) focused on turning raw data into actionable insights using SQL, Excel, Power BI, and Python. 
 
----
+🔧 Skills
 
-## 🔧 Skills
+Data Analysis
 
-Aspiring Data Analyst focused on:
-- SQL for data querying
-- Excel for data cleaning & dashboards
-- Power BI for visualization
-- Python (Pandas) for data analysis
-
+SQL (Joins, CTEs, Window Functions)
+Excel (Pivot Tables, Dashboards, Cleaning)
+Power BI (Reports, DAX basics)
+Python (Pandas, NumPy, Data Cleaning, Visualization)
 ---
 
 ## 🚀 Projects
