@@ -1,37 +1,33 @@
 # Hi, I'm Sharmila 👋
+
 DATA ANALYST | SQL • Excel • Power BI • Python
+
+---
  
-📊 About Me
+## 📊 About Me
 
-IT graduate (2025) focused on turning raw data into actionable insights using SQL, Excel, Power BI, and Python. 
+IT graduate (2025) focused on analyzing data to extract insights, identify patterns, and support decision-making using SQL, Excel, Power BI, and Python.
 
-🔧 Skills
+I work on cleaning datasets, building dashboards, and performing exploratory data analysis.
+
+---
+
+## 🔧 Skills
 
 Data Analysis
 
-SQL (Joins, CTEs, Window Functions)
+ • SQL (Joins, CTEs, Window Functions, Aggregations)
 
-Excel (Pivot Tables, Dashboards, Cleaning)
+ • Excel (Pivot Tables, Data Cleaning, Dashboards)
 
-Power BI (Reports, DAX basics)
+ • Power BI (Interactive Reports, Basic DAX, Visualization)
 
-Python (Pandas, NumPy, Data Cleaning, Visualization)
----
-
-## 🚀 Projects
-
-🔹 **Bus Reservation System**  
-Web application using Python & Django for booking and managing bus tickets  
-
-🔹 **Resume Integrity Checker**  
-Web application to detect inconsistencies in resumes  
-
-🔹 **Earthquake Prediction Model**  
-Python-based model to analyze and predict earthquake patterns  
+ • Python (Pandas, NumPy, Data Cleaning, Matplotlib/Seaborn)
 
 ---
 
 ## 📫 Contact
+
 - GitHub: https://github.com/sharmi2011  
 - Email: sharmilajagan2003@gmail.com  
 
