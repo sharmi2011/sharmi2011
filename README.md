@@ -97,6 +97,6 @@ Analyzing product returns, return reasons, product quality, and financial impact
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/sharmi2011
-* LinkedIn: Add your LinkedIn profile
+* LinkedIn: www.linkedin.com/in/sharmila-j-2011sharmi
 * Email: [sharmilajagan2003@gmail.com](mailto:sharmilajagan2003@gmail.com)
-* Portfolio: Add your portfolio link
+
