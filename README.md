@@ -1,10 +1,10 @@
-# Hi, I'm Sharmila
+# Hi, I'm Sharmila 👋
 
 ### Aspiring Data Analyst | SQL | Excel | Power BI | Python
 
 ---
 
-## About Me
+## 📊 About Me
 
 I am an IT graduate (2025) focused on Data Analytics.
 
@@ -14,7 +14,7 @@ Currently building data analytics projects to strengthen my skills in data clean
 
 ---
 
-## Skills
+## 🛠️ Skills
 
 ### Data Analysis
 - SQL
@@ -51,7 +51,7 @@ Currently building data analytics projects to strengthen my skills in data clean
 
 ---
 
-## Featured Projects
+## 📊 Featured Projects
 
 ### Healthcare Cost & Patient Treatment Analysis
 **Python | SQL | Excel | Power BI**
@@ -80,14 +80,14 @@ Analyzed product returns, return reasons, product quality, and financial impact 
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 - Google — Foundations: Data, Data, Everywhere
 - Deloitte Australia — Data Analytics Virtual Experience
 
 ---
 
-## Connect With Me
+## 📫 Connect With Me
 
 - GitHub: https://github.com/sharmi2011
 - LinkedIn: [www.linkedin.com/in/sharmila-j-2011sharmi]
