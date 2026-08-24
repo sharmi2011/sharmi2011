@@ -1,47 +1,94 @@
-# Hi, I'm Sharmila 👋
+# Hi, I'm Sharmila
 
-DATA ANALYST | SQL • Excel • Power BI • Python
-
----
- 
-## 📊 About Me
-
-IT graduate (2025) focused on analyzing data to extract insights, identify patterns, and support decision-making using SQL, Excel, Power BI, and Python.
-
-I work on cleaning datasets, building dashboards, and performing exploratory data analysis.
+### Aspiring Data Analyst | SQL | Excel | Power BI | Python
 
 ---
 
-## 🔧 Skills
+## About Me
 
-Data Analysis
+I am an IT graduate (2025) focused on Data Analytics.
 
- • SQL (Joins, CTEs, Window Functions, Aggregations)
+I work with SQL, Excel, Power BI, and Python to clean data, perform analysis, build dashboards, and generate actionable insights.
 
- • Excel (Pivot Tables, Data Cleaning, Dashboards)
-
- • Power BI (Interactive Reports, Basic DAX, Visualization)
-
- • Python (Pandas, NumPy, Data Cleaning, Matplotlib/Seaborn)
+Currently building data analytics projects to strengthen my skills in data cleaning, exploratory data analysis, SQL analysis, and business intelligence.
 
 ---
 
-## 📫 Contact
+## Skills
 
-- GitHub: https://github.com/sharmi2011  
-- Email: sharmilajagan2003@gmail.com  
+### Data Analysis
+- SQL
+- Excel
+- Power BI
+- Python
+- Pandas
+- NumPy
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
 
-<!--
-**sharmi2011/sharmi2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### SQL
+- Joins
+- CTEs
+- Aggregations
+- Window Functions
+- CASE Statements
+- Subqueries
 
-Here are some ideas to get you started:
+### Excel
+- Pivot Tables
+- Data Cleaning
+- Conditional Formatting
+- XLOOKUP / VLOOKUP
+- Dashboards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Power BI
+- Interactive Dashboards
+- DAX
+- KPIs
+- Data Visualization
+- Slicers
+
+---
+
+## Featured Projects
+
+### Healthcare Cost & Patient Treatment Analysis
+**Python | SQL | Excel | Power BI**
+
+Analyzed patient data to understand healthcare billing, patient distribution, admission patterns, insurance-provider billing, and length of stay.
+
+**Status:** Completed
+
+---
+
+### Sales Analysis Dashboard
+**Power BI | Excel**
+
+Built an interactive dashboard to analyze sales performance and identify important business trends.
+
+**Status:** Completed
+
+---
+
+### Product Return & Quality Analytics
+**Python | SQL | Excel | Power BI**
+
+Analyzed product returns, return reasons, product quality, and financial impact to identify patterns in product returns.
+
+**Status:** In Progress
+
+---
+
+## Certifications
+
+- Google — Foundations: Data, Data, Everywhere
+- Deloitte Australia — Data Analytics Virtual Experience
+
+---
+
+## Connect With Me
+
+- GitHub: https://github.com/sharmi2011
+- LinkedIn: [www.linkedin.com/in/sharmila-j-2011sharmi]
+- Email: sharmilajagan2003@gmail.com
