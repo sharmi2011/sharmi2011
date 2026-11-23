@@ -13,18 +13,6 @@ Currently building practical data analytics projects to strengthen my skills in 
 
 ## 🛠️ Skills
 
-### Data Analysis
-
-* SQL
-* Excel
-* Power BI
-* Python
-* Pandas
-* NumPy
-* Data Cleaning
-* Exploratory Data Analysis
-* Data Visualization
-
 ### SQL
 
 * Joins
