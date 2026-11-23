@@ -3,7 +3,7 @@
 
 ## 📊 About Me
 
-I am an IT graduate (2025) focused on Data Analytics.
+I am an IT graduate (2025) 
 
 I use SQL, Excel, Power BI, and Python to clean data, perform analysis, build dashboards, and generate insights that support data-driven decision-making.
 
