@@ -1,7 +1,4 @@
 # Hi, I'm Sharmila 👋
-
-### Aspiring Data Analyst | SQL | Excel | Power BI | Python
-
 ---
 
 ## 📊 About Me
@@ -45,21 +42,13 @@ Currently building practical data analytics projects to strengthen my skills in 
 * XLOOKUP / VLOOKUP
 * Dashboards
 
-### Power BI
-
-* Interactive Dashboards
-* DAX
-* KPIs
-* Data Visualization
-* Slicers
-
 ---
 
 ## 📊 Featured Projects
 
 ### 🏥 Healthcare Cost & Patient Treatment Analysis
 
-**Python | SQL | Excel | Power BI**
+**Python | SQL | Excel **
 
 Analyzed healthcare data to understand patient distribution, billing patterns, admission types, insurance-provider billing, and treatment duration.
 
@@ -74,16 +63,6 @@ Analyzed healthcare data to understand patient distribution, billing patterns, a
 Built an interactive dashboard to analyze sales performance and identify important business trends.
 
 **Status:** Completed
-
----
-
-### 🔄 Product Return & Quality Analytics
-
-**Python | SQL | Excel | Power BI**
-
-Analyzing product returns, return reasons, product quality, and financial impact to identify patterns and potential areas for improvement.
-
-**Status:** In Progress
 
 ---
 
